@@ -10,7 +10,7 @@ I am currently:
 <br>
 :computer: majoring in CS at Columbia University
 <br>
-:violin: playing the violin in a string quartet
+:violin: playing the violin 
 <br>
 🖊️ drafting <a href='www.williamliang.com'>blogs</a> about my PM learnings
 <br>
