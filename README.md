@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @fcdljx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi there, I am William Liang! <img src="https://media.giphy.com/media/HtqFbL7el09oY/giphy.gif" width="50" height="50" />
 
-<!---
-fcdljx/fcdljx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*CS @ Columbia University*
+<br>
+*Economics @ Wesleyan University*
