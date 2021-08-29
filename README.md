@@ -12,7 +12,7 @@ I am currently:
 <br>
 :violin: playing the violin 
 <br>
-🖊️ drafting <a href='www.williamliang.com'>blogs</a> about my PM learnings
+🖊️ drafting <a href='https://www.williamliang.com'>blogs</a> about my PM learnings
 <br>
 :eyes: binge watching Black Mirror
 <br>
